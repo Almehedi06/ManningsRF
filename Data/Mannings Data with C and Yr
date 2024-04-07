@@ -1,0 +1,28 @@
+Feature description:
+
+1. COMID: Unique site ID.
+2. nearest_x: X-coordinate of the site.
+3. nearest_y: Y-coordinate of the site.
+4. NDVI: Normalized Difference Vegetation Index.
+5. AreaSqKM: Area in square kilometers.
+6. b0_sand: Soil property - sand content at 0 cm depth (surface).
+7. AI: Aridity Index.
+8. CAT_STRM_DENS: Catchment stream density.
+9. Forest: Land cover - Forest.
+10. Agriculture: Land cover - Agriculture.
+11. MEANELEVSMO: Mean elevation.
+12. b0_clay: Soil property - clay content at 0 cm depth (surface).
+13. b10_clay: Soil property - clay content at 10 com depth below surface.
+14. b10_sand: Soil property - sand content at 10 com depth below surface.
+15. Silt_101: Soil property - silt content.
+16. Developed: Land cover - Developed.
+17. sinuosity: Sinuosity of the stream.
+18. StreamOrde: Stream order.
+19. D50 (mm): Median grain size.
+20. mean_vel_v: Mean velocity of water flow.
+21. max_depth: Maximum depth of water.
+22. SLOPE: Slope of the terrain.
+23. q_va: Stream discharge.
+24. mannings n: Manning's n coefficient.
+25. C: Chezy roughness coefficient.
+26. Yr: Keulegan roughhness coefficient.
