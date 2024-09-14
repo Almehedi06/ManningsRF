@@ -38,3 +38,11 @@ python model/Mannings_RF_model.py --data data/Mannings_data.csv
   
 ![Sample Prediction Output](path_to_output_image.png)
 
+### Contributing:
+
+Contributions are welcome! Please feel free to submit issues or pull requests for any improvements, bug fixes, or new features.
+
+### License:
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
