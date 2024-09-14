@@ -5,6 +5,7 @@ The Random Forest (RF) Model for large-scale predicition of channel roughness co
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/username/ManningsRF/ci.yml)
 ![Coverage](https://img.shields.io/codecov/c/github/username/ManningsRF)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=4DR2F4kAAAAJ&hl=en&oi=ao)
 
 # Paper
 Al Mehedi, M.A., Saki, S., Patel, K., Shen, C., Cohen, S., Smith, V., Rajib, A., Anagnostou, E., Bindas, T. and Lawson, K., 2024. Spatiotemporal variability of channel roughness and its substantial impacts on flood modeling errors. Earth's Future, 12(7), p.e2023EF004257.
