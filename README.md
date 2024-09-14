@@ -23,3 +23,10 @@ git clone https://github.com/username/ManningsRF.git
 cd ManningsRF
 pip install -r requirements.txt
 
+## Usage
+
+- To train the model and predict Manning's n:
+
+```bash
+python model/Mannings_RF_model.py --data data/Mannings_data.csv
+
