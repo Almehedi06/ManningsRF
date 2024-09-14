@@ -30,4 +30,11 @@ pip install -r requirements.txt
 
 ```bash
 python model/Mannings_RF_model.py --data data/Mannings_data.csv
+```
+
+### Example Output:
+
+- After running the model, you can expect visualizations or output files that show predicted Manning's n vs. actual values.
+  
+![Sample Prediction Output](path_to_output_image.png)
 
