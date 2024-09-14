@@ -6,3 +6,24 @@ Al Mehedi, Md Abdullah, et al. "Spatiotemporal variability of channel roughness 
 
 # Instructions
 
+# ManningsRF: Random Forest Model for Predicting Channel Roughness
+
+![Python Version](https://img.shields.io/badge/python-3.7%20|%203.8%20|%203.9-blue)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/ManningsRF/ci.yml)
+![Coverage](https://img.shields.io/codecov/c/github/username/ManningsRF)
+
+### Overview
+This repository implements a Random Forest (RF) model for large-scale prediction of Manning's roughness coefficient (Manning's n) across the continental U.S. The project is part of a broader effort to improve flood modeling accuracy using data-driven methods.
+
+### Features:
+- Predict channel roughness (Manning's n) using RF with multiple hydrological features.
+- Process large-scale geospatial datasets.
+- Easy-to-use interface for model training and predictions.
+
+### Installation:
+```bash
+git clone https://github.com/username/ManningsRF.git
+cd ManningsRF
+pip install -r requirements.txt
+
