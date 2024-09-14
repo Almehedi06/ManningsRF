@@ -22,8 +22,9 @@ This repository implements a Random Forest (RF) model for large-scale prediction
 git clone https://github.com/username/ManningsRF.git
 cd ManningsRF
 pip install -r requirements.txt
+```
 
-## Usage
+### Usage
 
 - To train the model and predict Manning's n:
 
